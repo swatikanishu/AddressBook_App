@@ -78,6 +78,7 @@
     text-transform: uppercase;
     opacity: 1;
   }
+  /* UC 3 */
   .row-content {
     margin-left: 30px;
     min-width: 80%;
@@ -116,7 +117,7 @@
   }
   
   textarea {
-    height: 80%;
+    height: 70%;
     width: 100%;
     resize: none;
     background: #ffffff 0% 0% no-repeat padding-box;
@@ -155,3 +156,11 @@
   .zipcode {
     padding: 15px 12px;
   }
+  /* uc 4 */
+error-output {
+    margin-left: 10px;
+    font-size: 14px;
+    font-style: italic;
+    color: red;
+  }
+    
